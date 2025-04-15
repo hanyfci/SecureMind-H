@@ -127,7 +127,7 @@ const ChatBot = () => {
                                 type="text"
                                 value={input}
                                 onChange={(e) => setInput(e.target.value)}
-                                placeholder="Type your message here..."
+                                placeholder="Type your message here.."
                                 className="flex-1 p-2 border rounded-lg focus:outline-none focus:border-blue-500"
                                 disabled={isLoading}
                             />
