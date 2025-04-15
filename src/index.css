@@ -1,0 +1,5 @@
+/* This file includes Tailwind CSS directives for styling the application. */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
