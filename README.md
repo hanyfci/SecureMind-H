@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# SecureMind-AI-Hany
+=======
+>>>>>>> fa2dbb5 (Initial commit Hany)
 # React Tailwind App
 
 This project is a React application styled with Tailwind CSS. It features a clean layout with a persistent header, footer, and a sidebar navigation menu. The application is structured to be scalable and maintainable, utilizing functional components and React Router for navigation.
@@ -68,4 +74,9 @@ react-tailwind-app
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License. See the LICENSE file for more details.
+=======
+This project is licensed under the MIT License. See the LICENSE file for more details.
+>>>>>>> fcdb713 (Initial commit)
+>>>>>>> fa2dbb5 (Initial commit Hany)
