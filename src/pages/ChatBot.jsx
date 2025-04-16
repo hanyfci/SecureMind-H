@@ -91,7 +91,7 @@ const ChatBot = () => {
         <div className="flex flex-col h-[90vh] bg-gray-100">
             <div className="flex-1 p-3 max-w-4xl mx-auto w-full">
                 <div className="flex justify-between items-center mb-4">
-                    <h1 className="text-2xl font-bold">AI Assistant</h1>
+                    <h1 className="text-2xl font-bold">Maher Assistant</h1>
                     <div className="space-x-2">
                         <button
                             onClick={handleClearChat}
